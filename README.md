@@ -3,6 +3,8 @@
 </div>
 
 # Nylas PHP SDK
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAgencyzoom%2Fnylas-php.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAgencyzoom%2Fnylas-php?ref=badge_shield)
+
 
 PHP bindings for the Nylas REST API (V2.1). https://docs.nylas.com/reference</br>
 I'll try to keep up with [NyLas Changelog](https://changelog.nylas.com) in future updates.
@@ -316,3 +318,6 @@ Please feel free to use it and send me a pull request if you fix anything or add
 ## License
 
 This project is licensed under the MIT license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAgencyzoom%2Fnylas-php.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAgencyzoom%2Fnylas-php?ref=badge_large)
